@@ -28,5 +28,5 @@ function Header() {
   );
 }
 
-// export
+// export new things
 export default Header;
